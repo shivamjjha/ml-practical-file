@@ -1,5 +1,3 @@
-
-
 def revrse_number(s):
     return "".join(list(reversed(s)))
 
